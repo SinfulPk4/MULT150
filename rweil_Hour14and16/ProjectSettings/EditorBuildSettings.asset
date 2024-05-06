@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/rweil_Hour14.unity
+    path: Assets/Hour 14 Scenes/rweil_Hour14.unity
     guid: 41425f45828802645824227db0893cd7
   - enabled: 1
-    path: Assets/Scenes/Game.unity
+    path: Assets/Hour 14 Scenes/Game.unity
     guid: 833ac397d6c7b2547b5c3fdc04c0dd19
   m_configObjects: {}
